@@ -44,7 +44,7 @@ toggleButton.addEventListener("click", () => {
         a. search youtube data api
 */
 
-let api_key = "AIzaSyDhcm7uZ9_z6iJTTWl-11AyPpscmGBN4b0";
+let api_key = "USE YOUR OWN API KEY";
 let search_http = "https://www.googleapis.com/youtube/v3/search?";
 let channel_http = "https://www.googleapis.com/youtube/v3/channels?";
 
